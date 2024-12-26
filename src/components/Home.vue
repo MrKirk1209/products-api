@@ -36,7 +36,7 @@ export default {
   height:350px;
 }
 .product-card p{
-  padding: 5px;
+  padding: 3px;
 }
 .product-image img{
   width: 180px;
